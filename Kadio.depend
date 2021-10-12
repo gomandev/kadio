@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634038340 source:/home/gomandev/Documents/DEV_PROJECTS/c++/Kadio/src/Kadio.cpp
+	"Kadio.h"
+
+1634038305 /home/gomandev/Documents/DEV_PROJECTS/c++/Kadio/include/Kadio.h
+
